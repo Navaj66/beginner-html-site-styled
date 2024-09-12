@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: website-container
-        image: namu9192/c3
+        image: namu9192/c4
         ports:
         - containerPort: 80
